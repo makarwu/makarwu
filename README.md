@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makar</h1>
-<h3 align="center">interested in ml and nns</h3>
+<h3 align="center">interested in ml</h3>
 
 - 📫 How to reach me **wuckertmakar@gmail.com**
 
